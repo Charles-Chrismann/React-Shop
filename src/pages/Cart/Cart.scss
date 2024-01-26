@@ -1,0 +1,25 @@
+.article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  width: 100%;
+
+  & > div {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    & > button {
+      display: grid;
+      place-items: center;
+      width: 2rem;
+      height: 2rem;
+      background-color: lightgray;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tomato (game ready asset)
+* source:	https://sketchfab.com/3d-models/tomato-game-ready-asset-fda1fbe840c344968523a1cbc7395839
+* author:	Pixel Life (https://sketchfab.com/pixellife)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tomato (game ready asset)" (https://sketchfab.com/3d-models/tomato-game-ready-asset-fda1fbe840c344968523a1cbc7395839) by Pixel Life (https://sketchfab.com/pixellife) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

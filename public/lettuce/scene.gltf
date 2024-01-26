@@ -1,0 +1,337 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 482,
+      "max": [
+        0.20434081554412842,
+        0.25530242919921875,
+        0.022115932777523994
+      ],
+      "min": [
+        -0.2560110092163086,
+        -0.21048495173454285,
+        -9.313225746154785e-10
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5784,
+      "componentType": 5126,
+      "count": 482,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 482,
+      "max": [
+        0.5208660364151001,
+        0.6262795329093933
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1104,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11568,
+      "componentType": 5126,
+      "count": 88,
+      "max": [
+        0.11671842634677887,
+        0.19248229265213013,
+        0.02197987586259842
+      ],
+      "min": [
+        -0.1868012398481369,
+        -0.21048495173454285,
+        -0.00010848080273717642
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12624,
+      "componentType": 5126,
+      "count": 88,
+      "max": [
+        8.55512496400479e-08,
+        0.0,
+        1.0
+      ],
+      "min": [
+        5.8119054707761464e-11,
+        0.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3856,
+      "componentType": 5126,
+      "count": 88,
+      "max": [
+        0.5208660364151001,
+        0.6262795329093933
+      ],
+      "min": [
+        0.5208656787872314,
+        0.6262790560722351
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4416,
+      "componentType": 5125,
+      "count": 252,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "aysenaz (https://sketchfab.com/Aysenazkara)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lettuce-b8402d98b6304da29cab8a7fc1f13fe0",
+      "title": "Lettuce"
+    },
+    "generator": "Sketchfab-12.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5424,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4560,
+      "byteOffset": 5424,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13680,
+      "byteOffset": 9984,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 23664,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Lettuce",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00339443,
+          0.22662,
+          0.00237108,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9635584710675427
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Lettuce_stalk",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.117126,
+          1.0,
+          0.0674119,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8334200627449239
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Lettuce_Lettuce_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lettuce_stalk_Lettuce_stalk_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "80d9adf13b6644eb9f34886088790f1a.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Lettuce"
+    },
+    {
+      "mesh": 0,
+      "name": "Lettuce_Lettuce_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.646977960169688e-23,
+        0.0,
+        0.0,
+        2.646977960169688e-23,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Lettuce_stalk"
+    },
+    {
+      "mesh": 1,
+      "name": "Lettuce_stalk_Lettuce_stalk_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

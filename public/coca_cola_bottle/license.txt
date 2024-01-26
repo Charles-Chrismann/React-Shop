@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coca Cola Bottle
+* source:	https://sketchfab.com/3d-models/coca-cola-bottle-34075fedb0ef40d9a172231134849914
+* author:	MemoRorschach (https://sketchfab.com/memororschach)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coca Cola Bottle" (https://sketchfab.com/3d-models/coca-cola-bottle-34075fedb0ef40d9a172231134849914) by MemoRorschach (https://sketchfab.com/memororschach) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
